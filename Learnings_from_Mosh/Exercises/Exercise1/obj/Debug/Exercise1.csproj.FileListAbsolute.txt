@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\App1\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\App1\Exercise\bin\Debug\Exercise.exe
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\App1\Exercise\bin\Debug\Exercise.pdb
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\App1\Exercise\obj\Debug\Exercise.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\App1\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\App1\Exercise\obj\Debug\Exercise.exe
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\App1\Exercise\obj\Debug\Exercise.pdb
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\Exercises\Exercise1\bin\Debug\Exercise1.exe.config
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\Exercises\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\Exercises\Exercise1\bin\Debug\Exercise1.pdb
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\Exercises\Exercise1\obj\Debug\Exercise1.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\Exercises\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\Exercises\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\Exercises\Exercise1\obj\Debug\Exercise1.pdb

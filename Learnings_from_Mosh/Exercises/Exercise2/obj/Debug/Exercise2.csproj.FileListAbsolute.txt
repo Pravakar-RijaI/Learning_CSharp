@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\Exercises\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\Exercises\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\Exercises\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\Exercises\Exercise2\obj\Debug\Exercise2.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\Exercises\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\Exercises\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\USER\Documents\PRAVAKAR\NET Centric\Exercises\Exercise2\obj\Debug\Exercise2.pdb

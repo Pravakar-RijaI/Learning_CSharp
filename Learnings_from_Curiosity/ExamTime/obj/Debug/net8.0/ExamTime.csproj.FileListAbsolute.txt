@@ -1,0 +1,14 @@
+F:\dotnet3\ExamTime\bin\Debug\net8.0\ExamTime.exe
+F:\dotnet3\ExamTime\bin\Debug\net8.0\ExamTime.deps.json
+F:\dotnet3\ExamTime\bin\Debug\net8.0\ExamTime.runtimeconfig.json
+F:\dotnet3\ExamTime\bin\Debug\net8.0\ExamTime.dll
+F:\dotnet3\ExamTime\bin\Debug\net8.0\ExamTime.pdb
+F:\dotnet3\ExamTime\obj\Debug\net8.0\ExamTime.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotnet3\ExamTime\obj\Debug\net8.0\ExamTime.AssemblyInfoInputs.cache
+F:\dotnet3\ExamTime\obj\Debug\net8.0\ExamTime.AssemblyInfo.cs
+F:\dotnet3\ExamTime\obj\Debug\net8.0\ExamTime.csproj.CoreCompileInputs.cache
+F:\dotnet3\ExamTime\obj\Debug\net8.0\ExamTime.dll
+F:\dotnet3\ExamTime\obj\Debug\net8.0\refint\ExamTime.dll
+F:\dotnet3\ExamTime\obj\Debug\net8.0\ExamTime.pdb
+F:\dotnet3\ExamTime\obj\Debug\net8.0\ExamTime.genruntimeconfig.cache
+F:\dotnet3\ExamTime\obj\Debug\net8.0\ref\ExamTime.dll

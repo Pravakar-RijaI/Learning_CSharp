@@ -1,0 +1,12 @@
+﻿@model ShoppingWebsite.ViewModels.SalesViewModel
+
+<h2>Cashier's Console</h2>
+<hr />
+<p style="text-align: right;">Cashier's Name: </p>
+<select asp-for="SelectedCategoryId">
+    <option>-Please Select-</option>
+    @foreach(var c in Model.Categories)
+    {
+        <option value="@c.Id">@c.Name</option>
+    }
+</select>

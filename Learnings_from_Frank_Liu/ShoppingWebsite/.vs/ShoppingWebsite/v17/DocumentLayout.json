@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FD1ABC-3E0B-4427-ADE6-3D153CC05DAC}|ShoppingWebsite.csproj|c:\\users\\user\\documents\\pravakar\\net centric\\shoppingwebsite\\views\\products\\_products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1FD1ABC-3E0B-4427-ADE6-3D153CC05DAC}|ShoppingWebsite.csproj|solutionrelative:views\\products\\_products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FD1ABC-3E0B-4427-ADE6-3D153CC05DAC}|ShoppingWebsite.csproj|c:\\users\\user\\documents\\pravakar\\net centric\\shoppingwebsite\\models\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FD1ABC-3E0B-4427-ADE6-3D153CC05DAC}|ShoppingWebsite.csproj|solutionrelative:models\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FD1ABC-3E0B-4427-ADE6-3D153CC05DAC}|ShoppingWebsite.csproj|c:\\users\\user\\documents\\pravakar\\net centric\\shoppingwebsite\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FD1ABC-3E0B-4427-ADE6-3D153CC05DAC}|ShoppingWebsite.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FD1ABC-3E0B-4427-ADE6-3D153CC05DAC}|ShoppingWebsite.csproj|c:\\users\\user\\documents\\pravakar\\net centric\\shoppingwebsite\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1FD1ABC-3E0B-4427-ADE6-3D153CC05DAC}|ShoppingWebsite.csproj|solutionrelative:views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FD1ABC-3E0B-4427-ADE6-3D153CC05DAC}|ShoppingWebsite.csproj|c:\\users\\user\\documents\\pravakar\\net centric\\shoppingwebsite\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FD1ABC-3E0B-4427-ADE6-3D153CC05DAC}|ShoppingWebsite.csproj|solutionrelative:controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FD1ABC-3E0B-4427-ADE6-3D153CC05DAC}|ShoppingWebsite.csproj|c:\\users\\user\\documents\\pravakar\\net centric\\shoppingwebsite\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1FD1ABC-3E0B-4427-ADE6-3D153CC05DAC}|ShoppingWebsite.csproj|solutionrelative:views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FD1ABC-3E0B-4427-ADE6-3D153CC05DAC}|ShoppingWebsite.csproj|c:\\users\\user\\documents\\pravakar\\net centric\\shoppingwebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FD1ABC-3E0B-4427-ADE6-3D153CC05DAC}|ShoppingWebsite.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FD1ABC-3E0B-4427-ADE6-3D153CC05DAC}|ShoppingWebsite.csproj|c:\\users\\user\\documents\\pravakar\\net centric\\shoppingwebsite\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FD1ABC-3E0B-4427-ADE6-3D153CC05DAC}|ShoppingWebsite.csproj|solutionrelative:viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FD1ABC-3E0B-4427-ADE6-3D153CC05DAC}|ShoppingWebsite.csproj|c:\\users\\user\\documents\\pravakar\\net centric\\shoppingwebsite\\viewmodels\\salesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FD1ABC-3E0B-4427-ADE6-3D153CC05DAC}|ShoppingWebsite.csproj|solutionrelative:viewmodels\\salesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FD1ABC-3E0B-4427-ADE6-3D153CC05DAC}|ShoppingWebsite.csproj|c:\\users\\user\\documents\\pravakar\\net centric\\shoppingwebsite\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1FD1ABC-3E0B-4427-ADE6-3D153CC05DAC}|ShoppingWebsite.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FD1ABC-3E0B-4427-ADE6-3D153CC05DAC}|ShoppingWebsite.csproj|c:\\users\\user\\documents\\pravakar\\net centric\\shoppingwebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1FD1ABC-3E0B-4427-ADE6-3D153CC05DAC}|ShoppingWebsite.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:57:34.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\Models\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "Models\\ProductsRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\Models\\ProductsRepository.cs",
+              "RelativeToolTip": "Models\\ProductsRepository.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAEQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:52:23.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:52:12.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\ViewModels\\SalesViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\SalesViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\ViewModels\\SalesViewModel.cs",
+              "RelativeToolTip": "ViewModels\\SalesViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:11:07.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Products.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\Views\\Products\\_Products.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\_Products.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\Views\\Products\\_Products.cshtml",
+              "RelativeToolTip": "Views\\Products\\_Products.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T12:08:17.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\Views\\Sales\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Sales\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\Views\\Sales\\Index.cshtml",
+              "RelativeToolTip": "Views\\Sales\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T12:01:44.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T12:06:40.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "Controllers\\SalesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T11:50:29.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:55:43.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T11:46:24.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PRAVAKAR\\NET Centric\\ShoppingWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T12:05:18.619Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

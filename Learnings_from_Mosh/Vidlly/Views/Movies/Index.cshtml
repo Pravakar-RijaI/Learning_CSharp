@@ -1,0 +1,36 @@
+﻿@using Vidlly.Models
+@{
+    ViewBag.Title = "Movies";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Movies</h2>
+
+@{ 
+    var movies = ViewBag.Movies;
+} 
+<table class="table table-hover">
+    <thead>
+        <tr class="table-light">
+            <th scope="col">
+                ID
+            </th>
+            <th scope="col">
+                Title
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+                @foreach (var movie in movies)
+                {
+                    <tr>
+                        <td>
+                            @movie.Id
+                        </td>
+                        <td>
+                            @movie.Title
+                        </td>
+                    </tr>
+                }
+    </tbody>
+</table>

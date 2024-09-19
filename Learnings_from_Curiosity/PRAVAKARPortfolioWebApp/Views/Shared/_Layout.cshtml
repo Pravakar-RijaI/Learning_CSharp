@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Elsie:wght@400;900&display=swap" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet" />      
+</head>
+<body>
+    <header class="header"> 
+        <nav class="header__nav">
+            <menu class="header__menu">
+                <li class="header__item">
+                    <a class="header__about" asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                <li class="header__item">
+                    <a class="header__about" asp-controller="Home" asp-action="About">About</a>
+                </li>
+                <li class="header__item">
+                    <a class="header__contact" asp-controller="Contact" asp-action="Index">Contact</a>
+                </li>
+            </menu>
+        </nav>
+    </header>
+<main class="main">
+    @RenderBody()
+</main>
+<footer class="footer">
+    <p class="footer__line">&copy;@DateTime.Now.Year - Pravakar Rijal</p>
+</footer>
+</body>
+</html>
